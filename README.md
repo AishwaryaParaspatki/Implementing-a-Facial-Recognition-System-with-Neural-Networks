@@ -24,3 +24,15 @@ One Shot Learning Steps:
 3. The One Shot Siamese Convolutional Neural Network work in parallel with both the Ture image and the Test image to extract features from the faces.
 4. These features are mapped in a lower dimension feature space based on their similarity and a similarity measure is outputted.
 5. Finally, Euclidean distnce is used to measure the difference between the 2 lower dimensional vectors.
+
+True image:
+![True_Image](/images/true_img.png)
+
+Below are the output images of the system identifying my face:
+![Smile](/images/Smile.png)
+![Normal](/images/Normal.png)
+![Weird face](/images/Weird face.png)
+![Laughter](/images/Laughter.png)
+
+System correctly not identifying my friend, Shardool as me:
+![Shardool](/images/My friend Shardool.png)
