@@ -29,10 +29,14 @@ True image:<br>
 ![True_Image](/images/true_img.png)
 <br>
 Below are the output images of the system identifying my face:<br>
-![Smile](/images/Smile.png) <br>
-![Normal](/images/Normal.png) <br>
-![Weird face](/images/Weird_face.png) <br>
-![Laughter](/images/Laughter.png) <br>
+![Smile](/images/Smile.png)
 <br>
-System correctly not identifying my friend, Shardool as me: br<>
+![Normal](/images/Normal.png)
+<br>
+![Weird face](/images/Weird_face.png)
+<br>
+![Laughter](/images/Laughter.png)
+<br>
+<br>
+System correctly not identifying my friend, Shardool as me:<br>
 ![Shardool](/images/Shardool.png)
