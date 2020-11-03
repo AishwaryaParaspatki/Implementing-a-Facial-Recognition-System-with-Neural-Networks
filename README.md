@@ -31,8 +31,8 @@ True image:
 Below are the output images of the system identifying my face:
 ![Smile](/images/Smile.png)
 ![Normal](/images/Normal.png)
-![Weird face](/images/Weird face.png)
+![Weird face](/images/Weird_face.png)
 ![Laughter](/images/Laughter.png)
 
 System correctly not identifying my friend, Shardool as me:
-![Shardool](/images/My friend Shardool.png)
+![Shardool](/images/Shardool.png)
